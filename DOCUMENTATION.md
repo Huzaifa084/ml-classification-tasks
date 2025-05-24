@@ -38,7 +38,7 @@ ML_Classification_Task/
 
 If using Git:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Huzaifa084/ml-classification-tasks
 cd ML_Classification_Task
 ```
 
@@ -184,4 +184,4 @@ When presenting this project:
 ## Contact
 
 For any questions or issues regarding this project, please contact:
-[Your Name/Email]
+[Your Huzaifa Naseer/huzaifanaseer084@gmail.com]
